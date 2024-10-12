@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lzeic.github.io/RoI/sitemap.RoI.gz
